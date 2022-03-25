@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DAZN F1 (Fórmula 1) 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",DAZN F1 
+#EXTINF:-1 tvg-id="DAZN F1 (Fórmula 1)" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",DAZN F1 
 http://dmeras.ddns.net:8000/pid/9ddf64cab26efc80aef43eaf15caa01943bd534a/stream.mp4
