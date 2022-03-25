@@ -1,2 +1,5 @@
 #EXTM3U
-http://192.168.1.176:8000/pid/e378fc79083c3a72b5b0ca59d7770d921e168888/stream.mp4
+
+#EXTINF:-1 tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-Transparente/picon/1_0_19_750F_420_1_C00000_0_0_0.png?raw=true" group-title="acestream" tvg-chno="1",M. LaLiga
+http://192.168.1.176:8000/pid/b32bdafa5d6294cb8fff47ce7956ad8fd92f3ecf/stream.mp4
+
