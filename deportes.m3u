@@ -1,36 +1,54 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-Transparente/picon/1_0_19_750F_420_1_C00000_0_0_0.png?raw=true" group-title="acestream" tvg-chno="1",M. LaLiga
-http://192.168.1.176:8000/pid/b32bdafa5d6294cb8fff47ce7956ad8fd92f3ecf/stream.mp4
-#EXTINF:-1 tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-Transparente/picon/1_0_1_757B_412_1_C00000_0_0_0.png?raw=true" group-title="acestream" tvg-chno="2",M. Liga de Campeones
-http://192.168.1.176:8000/pid/3484a8b98af044d885fdc5f77e6e46a1506cbcf6/stream.mp4
-#EXTINF:-1 tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-Transparente/picon/1_0_1_76A4_41E_1_C00000_0_0_0.png?raw=true" group-title="acestream" tvg-chno="3",DAZN 1
-http://192.168.1.176:8000/pid/ffc077d6cc2acd501c539b51b9c4fbc106b369c3/stream.mp4
-#EXTINF:-1 tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-Transparente/picon/1_0_1_772A_416_1_C00000_0_0_0.png?raw=true" group-title="acestream" tvg-chno="4",DAZN 2
-http://192.168.1.176:8000/pid/b402c07f2e8bfe253815e08df0b7e0a6b0fad8e3/stream.mp4
-#EXTINF:-1 tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-Transparente/picon/1_0_1_77BE_40A_1_C00000_0_0_0.png?raw=true" group-title="acestream" tvg-chno="5",DAZN 3
-http://192.168.1.176:8000/pid/bf977ed3dbf661329f9aa0eb79849484e01562d2/stream.mp4
-#EXTINF:-1 tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-Transparente/picon/1_0_1_77C0_40A_1_C00000_0_0_0.png?raw=true" group-title="acestream" tvg-chno="6",DAZN 4
-http://192.168.1.176:8000/pid/3634ae8e7443f637222e0255f0fc70bf3f050e64/stream.mp4
-#EXTINF:-1 tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-Transparente/picon/1_0_19_788C_414_1_C00000_0_0_0.png?raw=true" group-title="acestream" tvg-chno="10",#0
-http://192.168.1.176:8000/pid/4d2e5cad27f18385fd492a798b1bcf27e0f1a5e0/stream.mp4
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3" group-title="acestream" tvg-chno="11",M. Deportes 1
-http://192.168.1.176:8000/pid/c47f756750190e4b2a9eefe8afdac48a2203b8d6/stream.mp4
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3" group-title="acestream" tvg-chno="12",M. Deportes 2
-http://192.168.1.176:8000/pid/ef7034ccf8a05e7b491f4b00d1b109b4dcf691b6/stream.mp4
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3" group-title="acestream" tvg-chno="22",SPORT TV 2
+#EXTINF:-1 tvg-id="Sport Tv 1 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",Sport Tv 1 1080 
+http://192.168.1.176:8000/pid/15894eb997a5a8fcbff7aeba0484208c043f9bef/stream.mp4
+#EXTINF:-1 tvg-id="EuroSport 1 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",EuroSport 1 1080 
+http://192.168.1.176:8000/pid/5d330dc46d4e24a8db88ab9945c0595883bd280e/stream.mp4
+#EXTINF:-1 tvg-id="EuroSport 2 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",EuroSport 2 1080 
+http://192.168.1.176:8000/pid/4a7fe5b8b49cfd6a2e4f66713bc6a8c506c2159b/stream.mp4
+#EXTINF:-1 tvg-id="Sport Tv 2 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",Sport Tv 2 1080 
 http://192.168.1.176:8000/pid/b402a5fc3d93860c7f4a9c46463ff5469b6436f6/stream.mp4
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3" group-title="acestream" tvg-chno="23",SPORT TV 3
+#EXTINF:-1 tvg-id="Sport Tv 3 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",Sport Tv 3 1080 
 http://192.168.1.176:8000/pid/4d78fadc6701008fb528202d9671e1d0f2acd486/stream.mp4
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3" group-title="acestream" tvg-chno="24",Eurosport 1
-http://192.168.1.176:8000/pid/5d330dc46d4e24a8db88ab9945c0595883bd280e/stream.mp4
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3" group-title="acestream" tvg-chno="25",#Vamos
-http://192.168.1.176:8000/pid/5d330dc46d4e24a8db88ab9945c0595883bd280e/stream.mp4
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3" group-title="acestream" tvg-chno="30",CUATRO
-http://192.168.1.176:8000/pid/0746c5511701c3db76c433f684c44549debad44f/stream.mp4
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3" group-title="acestream" tvg-chno="35",TELEDEPORTE
-http://192.168.1.176:8000/pid/75bb9c74eecbd508a30b3f308f62938180062c6d/stream.mp4
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3" group-title="acestream" tvg-chno="36",DAZN F1
-http://192.168.1.176:8000/pid/9ddf64cab26efc80aef43eaf15caa01943bd534a/stream.mp4
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3" group-title="acestream" tvg-chno="37",TEST2
-http://192.168.1.176:8000/pid/test2/stream.mp4
+#EXTINF:-1 tvg-id="Evento del Momento 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",Evento del Momento 1080 
+http://192.168.1.176:8000/pid/ffc077d6cc2acd501c539b51b9c4fbc106b369c3/stream.mp4
+#EXTINF:-1 tvg-id="M. LaLiga 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",M. LaLiga 720 
+http://192.168.1.176:8000/pid/59c95c0f30d265c541d9ef163f652b9542bc0b4b/stream.mp4
+#EXTINF:-1 tvg-id="M. LaLiga 1 720 / M. Liga de Campeones 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",M. LaLiga 1 720 / M. Liga de Campeones 1 
+http://192.168.1.176:8000/pid/b32bdafa5d6294cb8fff47ce7956ad8fd92f3ecf/stream.mp4
+#EXTINF:-1 tvg-id="M. Liga de Campeones 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",M. Liga de Campeones 720 
+http://192.168.1.176:8000/pid/a209c59cc9f6819f53b01ee4b3466ae3b7898a9c/stream.mp4
+#EXTINF:-1 tvg-id="DAZN 1 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",DAZN 1 720 
+http://192.168.1.176:8000/pid/bdf68ae2a90d682b19630a7aedd78cca93f32f56/stream.mp4
+#EXTINF:-1 tvg-id="DAZN 2 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",DAZN 2 720 
+http://192.168.1.176:8000/pid/5d5ec96d976d6532d30edde5cd6d04e9f5916182/stream.mp4
+#EXTINF:-1 tvg-id="M. Deportes 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",M. Deportes 720 
+http://192.168.1.176:8000/pid/065bf7e674897a4310d5d3ed8cec99ba56496ef9/stream.mp4
+#EXTINF:-1 tvg-id="Sport Tv 1 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",Sport Tv 1 720 
+http://192.168.1.176:8000/pid/f80249a2127534a95639ad5a23033ee831b31954/stream.mp4
+#EXTINF:-1 tvg-id="Sport Tv 2 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",Sport Tv 2 720 
+http://192.168.1.176:8000/pid/60c39884f16c7b7b676618a4b100124547b3d320/stream.mp4
+#EXTINF:-1 tvg-id="Sport Tv 3 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",Sport Tv 3 720 
+http://192.168.1.176:8000/pid/10b55222246760a06dd1d4f9ce3a9d86b1c97ab6/stream.mp4
+#EXTINF:-1 tvg-id="#Vamos 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",#Vamos 720 
+http://192.168.1.176:8000/pid/39592ff924c626fb4a6e80fb67eb24a551afd47a/stream.mp4
+#EXTINF:-1 tvg-id="DAZN F1 (Fórmula 1) 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",DAZN F1 (Fórmula 1) 720 
+http://192.168.1.176:8000/pid/509de9b6932fd970c09a1d7dce9ef077984eb9d6/stream.mp4
+#EXTINF:-1 tvg-id="TUDN 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",TUDN 720 
+http://192.168.1.176:8000/pid/c32adec51b796a58fc484f99456b035cde188c2a/stream.mp4
+#EXTINF:-1 tvg-id="Sport1 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",Sport1 720 
+http://192.168.1.176:8000/pid//stream.mp4
+#EXTINF:-1 tvg-id="M. LaLiga 1080 MultiAudio" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",M. LaLiga 1080 MultiAudio 
+http://192.168.1.176:8000/pid/2a68e99b16fb28281eb6276c0aca848fc6df57cf/stream.mp4
+#EXTINF:-1 tvg-id="Mega SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",Mega SD 
+http://192.168.1.176:8000/pid/028f8ae7dd65144013baf30aa749c87794ba466f/stream.mp4
+#EXTINF:-1 tvg-id="EuroSport 1 720p" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",EuroSport 1 720p 
+http://192.168.1.176:8000/pid/6a94ea3576f1ee5fc0e512c48ee2fe663972a386/stream.mp4
+#EXTINF:-1 tvg-id="EuroSport 2 (Multi-p)" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",EuroSport 2 (Multi-p) 
+http://192.168.1.176:8000/pid/f6a99c8826e81e0a6f0dde923deeccd2827d43b3/stream.mp4
+#EXTINF:-1 tvg-id="Bein Sports Xtra ñ 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",Bein Sports Xtra ñ 720 
+http://192.168.1.176:8000/pid/b5c017e94b72013902c02f6d145c77f753bc3e12/stream.mp4
+#EXTINF:-1 tvg-id="Red Bull TV 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",Red Bull TV 720 
+http://192.168.1.176:8000/pid/5c4f1e8c505ef96610a1aa114795cf69d57f865d/stream.mp4
+#EXTINF:-1 tvg-id="#0 de Movistar" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",#0 de Movistar 
+http://192.168.1.176:8000/pid/4d2e5cad27f18385fd492a798b1bcf27e0f1a5e0/stream.mp4
+#EXTINF:-1 tvg-id="aquí" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",aquí 
+http://192.168.1.176:8000/pid/53e45f3268f6b3eef669da192832f896aa324b73/stream.mp4
