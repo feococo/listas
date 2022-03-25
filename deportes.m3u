@@ -1,4 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3" group-title="acestream" tvg-chno="36",DAZN F1
-http://dmeras.ddns.net:8000/pid/2fdf10fe4a7e78410baa2c75113a94cec7526076/stream.mp4
+http://dmeras.ddns.net:8000/pid/9ddf64cab26efc80aef43eaf15caa01943bd534a/stream.mp4
+#EXTINF:-1 tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-Transparente/picon/1_0_19_750F_420_1_C00000_0_0_0.png?raw=true" group-title="acestream" tvg-chno="1",M. LaLiga
+http://dmeras.ddns.net:8000/pid/b32bdafa5d6294cb8fff47ce7956ad8fd92f3ecf/stream.mp4
