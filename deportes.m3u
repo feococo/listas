@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3" group-title="acestream" tvg-chno="36",DAZN F1
-http://192.168.1.176:8000/pid/9ddf64cab26efc80aef43eaf15caa01943bd534a/stream.mp4
+http://dmeras.ddns.net:8000/pid/9ddf64cab26efc80aef43eaf15caa01943bd534a/stream.mp4
