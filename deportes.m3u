@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="#Vamos 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",#Vamos 1080 
 http://192.168.1.176:8000/pid/ffc077d6cc2acd501c539b51b9c4fbc106b369c3/stream.mp4
+
 #EXTINF:-1 tvg-id="M. Liga de Campeones 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",M. Liga de Campeones 1080 
 http://192.168.1.176:8000/pid/cb88f1f9d2fb881f2569eeff16d052bebc1eec40/stream.mp4
+
 #EXTINF:-1 tvg-id="M. Liga de Campeones 1 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",M. Liga de Campeones 1 1080 
 http://192.168.1.176:8000/pid/00e59d3b53a7e6d4ab636c04aed9803f391da03f/stream.mp4
+
 #EXTINF:-1 tvg-id="M. Liga de Campeones 2 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",M. Liga de Campeones 2 1080 
 http://192.168.1.176:8000/pid/fb9548ad12d9dcea796dcdeca17d525ebfc8d6cc/stream.mp4
+
 #EXTINF:-1 tvg-id="DAZN 1 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",DAZN 1 1080 
 http://192.168.1.176:8000/pid/abfad7e2865448702e4abd46bbcae01c04daab5f/stream.mp4
