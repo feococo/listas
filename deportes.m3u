@@ -1,4 +1,5 @@
 #EXTM3U Acestream
+http://dmeras.ddns.net:8000/pid/9ddf64cab26efc80aef43eaf15caa01943bd534a/stream.mp4
 #EXTINF:-1 tvg-id="Cuatro 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",Cuatro 1080 
 http://192.168.1.176:8000/pid/0746c5511701c3db76c433f684c44549debad44f/stream.mp4
 #EXTINF:-1 tvg-id="#Vamos 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",#Vamos 1080 
