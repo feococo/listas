@@ -1,3 +1,3 @@
 #EXTM3U Acestream
-#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="acestream",DAZN 1 HD
-http://127.0.0.1:2000/pid/e378fc79083c3a72b5b0ca59d7770d921e168888/stream.mp4
+#EXTINF:-1 tvg-id="F1 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="acestream",F1 720
+http://127.0.0.1:2000/pid/0eb963333f8561e07fc2bd099deacccbdf317b8d/stream.mp4
