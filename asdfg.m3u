@@ -18,3 +18,8 @@ http://dmeras.ddns.net:8000/pid/ed147166c7df93f7aecba44d4e2fc9383d028218/stream.
 #EXTINF:-1 ,Acestream 6
 http://dmeras.ddns.net:8000/pid/e693d6b35ee9dc2c6a0d0593edec281268e79440/stream.mp4
 
+#EXTINF:-1 ,Acestream 7
+http://dmeras.ddns.net:8000/pid/27f8d39532d18143345d085ca382cd15a1c6307f/stream.mp4
+
+#EXTINF:-1 ,Acestream 8
+http://dmeras.ddns.net:8000/pid/9ceb54edd4636080020ef71808618bd624e5b3da/stream.mp4
