@@ -1,7 +1,7 @@
 #EXTM3U Acestream
 
 #EXTINF:-1 ,Acestream 1
-http://dmeras.ddns.net:8000/pid/02e7faf38c626ffe9c4d5b9d341000196db8445a/stream.mp4
+http://dmeras.ddns.net:8000/pid/ad22e068113f8a5fb7c68bd268f680078308a41e/stream.mp4
 
 #EXTINF:-1 ,Acestream 2 
 http://dmeras.ddns.net:8000/pid/608ffde844a8e6f4f7c7fb9783aa3459c818b9f8/stream.mp4
