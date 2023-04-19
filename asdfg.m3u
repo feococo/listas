@@ -1,5 +1,936 @@
-#EXTM3U Acestream
-
-#EXTINF:-1 ,Acestream 1
-http://dmeras.ddns.net:8000/pid/ba248210b26507ce559562176509ea76c2839153/stream.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="------SPAIN------" tvg-logo="" group-title="|ES| SPAIN",------SPAIN------
+http://k1.koalatv.net:2052/19494/919884/27089
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES: LA 1" tvg-logo="http://fanc.tmsimg.com/assets/s86913_ll_h3_aa.png" group-title="|ES| SPAIN",ES: LA 1
+http://k1.koalatv.net:2052/19494/919884/4093
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES: LA 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s86913_ll_h3_aa.png" group-title="|ES| SPAIN",ES: LA 1 HD
+http://k1.koalatv.net:2052/19494/919884/6684
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES: LA 2" tvg-logo="http://fanc.tmsimg.com/assets/s86914_ll_h3_aa.png" group-title="|ES| SPAIN",ES: LA 2
+http://k1.koalatv.net:2052/19494/919884/4094
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES: LA 2 HD" tvg-logo="http://tvpass.co.uk/logos/es/TVE-2.png" group-title="|ES| SPAIN",ES: LA 2 HD
+http://k1.koalatv.net:2052/19494/919884/6685
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES: ANTENA 3" tvg-logo="" group-title="|ES| SPAIN",ES: ANTENA 3
+http://k1.koalatv.net:2052/19494/919884/6686
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES: ANTENA 3 HD" tvg-logo="http://fanc.tmsimg.com/assets/s91176_ll_h3_aa.png" group-title="|ES| SPAIN",ES: ANTENA 3 HD
+http://k1.koalatv.net:2052/19494/919884/4095
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: CUATRO" tvg-logo="http://tvpass.co.uk/logos/es/Cuatro.png" group-title="|ES| SPAIN",ES: CUATRO
+http://k1.koalatv.net:2052/19494/919884/6688
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: CUATRO HD" tvg-logo="http://fanc.tmsimg.com/assets/s91199_ll_h3_aa.png" group-title="|ES| SPAIN",ES: CUATRO HD
+http://k1.koalatv.net:2052/19494/919884/4096
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO" tvg-logo="" group-title="|ES| SPAIN",ES: TELECINCO
+http://k1.koalatv.net:2052/19494/919884/6687
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO HD" tvg-logo="http://fanc.tmsimg.com/assets/s91224_ll_h3_aa.png" group-title="|ES| SPAIN",ES: TELECINCO HD
+http://k1.koalatv.net:2052/19494/919884/4097
+#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="ES: LA SEXTA" tvg-logo="http://fanc.tmsimg.com/assets/s97481_ll_h3_ab.png" group-title="|ES| SPAIN",ES: LA SEXTA
+http://k1.koalatv.net:2052/19494/919884/27052
+#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="ES: LA SEXTA HD" tvg-logo="http://fanc.tmsimg.com/assets/s97481_ll_h3_ab.png" group-title="|ES| SPAIN",ES: LA SEXTA HD
+http://k1.koalatv.net:2052/19494/919884/4098
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7RM HD" tvg-logo="http://obsfullhd.tv:25461/images/39fcf3bb830d54afe8f69cc513325799.png" group-title="|ES| SPAIN",ES: 7RM HD
+http://k1.koalatv.net:2052/19494/919884/6712
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF" tvg-logo="http://fanc.tmsimg.com/assets/s78991_ll_h3_aa.png" group-title="|ES| SPAIN",ES: FDF
+http://k1.koalatv.net:2052/19494/919884/4100
+#EXTINF:-1 tvg-id="" tvg-name="------ENTRETENIMIENTO------" tvg-logo="" group-title="|ES| ENTRETENIMIENTO",------ENTRETENIMIENTO------
+http://k1.koalatv.net:2052/19494/919884/27091
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="ES: DIVINITY" tvg-logo="http://fanc.tmsimg.com/assets/s87038_ll_h3_aa.png" group-title="|ES| ENTRETENIMIENTO",ES: DIVINITY
+http://k1.koalatv.net:2052/19494/919884/4103
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES: NOVA" tvg-logo="http://obsfullhd.tv:25461/images/0f12e05243818002f5e6c5395f1cf64e.png" group-title="|ES| ENTRETENIMIENTO",ES: NOVA
+http://k1.koalatv.net:2052/19494/919884/6649
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES: NOVA HD" tvg-logo="http://fanc.tmsimg.com/assets/s102944_ll_h3_aa.png" group-title="|ES| ENTRETENIMIENTO",ES: NOVA HD
+http://k1.koalatv.net:2052/19494/919884/4102
+#EXTINF:-1 tvg-id="BeMadTV.es" tvg-name="ES: BEMAD HD" tvg-logo="http://fanc.tmsimg.com/assets/s99701_ll_h3_aa.png" group-title="|ES| SPAIN",ES: BEMAD HD
+http://k1.koalatv.net:2052/19494/919884/4105
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA" tvg-logo="http://obsfullhd.tv:25461/images/f5602ed20d0ed0d8527654a126123182.png" group-title="|ES| ENTRETENIMIENTO",ES: CANAL COCINA
+http://k1.koalatv.net:2052/19494/919884/6640
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA HD" tvg-logo="http://fanc.tmsimg.com/assets/s90332_ll_h3_aa.png" group-title="|ES| ENTRETENIMIENTO",ES: CANAL COCINA HD
+http://k1.koalatv.net:2052/19494/919884/4151
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL DECASA" tvg-logo="http://tvpass.co.uk/logos/es/Canaldecasa.png" group-title="|ES| ENTRETENIMIENTO",ES: CANAL DECASA
+http://k1.koalatv.net:2052/19494/919884/6681
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL DECASA HD" tvg-logo="http://tvpass.co.uk/logos/es/Canaldecasa.png" group-title="|ES| ENTRETENIMIENTO",ES: CANAL DECASA HD
+http://k1.koalatv.net:2052/19494/919884/27059
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24 HORAS" tvg-logo="http://obsfullhd.tv:25461/images/ecdf6de02792a51e57717c1e51f65ba8.png" group-title="|ES| SPAIN",ES: 24 HORAS
+http://k1.koalatv.net:2052/19494/919884/27058
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24 HORAS HD" tvg-logo="http://obsfullhd.tv:25461/images/ecdf6de02792a51e57717c1e51f65ba8.png" group-title="|ES| SPAIN",ES: 24 HORAS HD
+http://k1.koalatv.net:2052/19494/919884/6668
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX NEWS" tvg-logo="" group-title="|ES| SPAIN",ES: FOX NEWS
+http://k1.koalatv.net:2052/19494/919884/27054
+#EXTINF:-1 tvg-id="" tvg-name="------CINE&SERIE------" tvg-logo="" group-title="|ES| CINE & SERIE",------CINE&SERIE------
+http://k1.koalatv.net:2052/19494/919884/27090
+#EXTINF:-1 tvg-id="" tvg-name="ES: #0" tvg-logo="http://obsfullhd.tv:25461/images/d9643a502bb623db5c75f51add21517d.png" group-title="|ES| CINE & SERIE",ES: #0
+http://k1.koalatv.net:2052/19494/919884/6525
+#EXTINF:-1 tvg-id="" tvg-name="ES: #0 HD" tvg-logo="http://obsfullhd.tv:25461/images/d9643a502bb623db5c75f51add21517d.png" group-title="|ES| CINE & SERIE",ES: #0 HD
+http://k1.koalatv.net:2052/19494/919884/4106
+#EXTINF:-1 tvg-id="M.Series.es" tvg-name="ES: M. SERIES" tvg-logo="http://fanc.tmsimg.com/assets/s90323_ll_h3_aa.png" group-title="|ES| CINE & SERIE",ES: M. SERIES
+http://k1.koalatv.net:2052/19494/919884/4111
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. SERIES HD" tvg-logo="http://obsfullhd.tv:25461/images/ab7b1c09a1553e0c4c96ff0250f4f14e.png" group-title="|ES| CINE & SERIE",ES: M. SERIES HD
+http://k1.koalatv.net:2052/19494/919884/6699
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. SERIES 2" tvg-logo="http://obsfullhd.tv:25461/images/ab7b1c09a1553e0c4c96ff0250f4f14e.png" group-title="|ES| CINE & SERIE",ES: M. SERIES 2
+http://k1.koalatv.net:2052/19494/919884/27053
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. SERIES 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/ab7b1c09a1553e0c4c96ff0250f4f14e.png" group-title="|ES| CINE & SERIE",ES: M. SERIES 2 HD
+http://k1.koalatv.net:2052/19494/919884/6519
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. ESTRENOS" tvg-logo="http://fanc.tmsimg.com/assets/s96397_ll_h3_aa.png" group-title="|ES| CINE & SERIE",ES: M. ESTRENOS
+http://k1.koalatv.net:2052/19494/919884/6549
+#EXTINF:-1 tvg-id="M.Estrenos.es" tvg-name="ES: M. ESTRENOS HD" tvg-logo="http://fanc.tmsimg.com/assets/s96397_ll_h3_aa.png" group-title="|ES| CINE & SERIE",ES: M. ESTRENOS HD
+http://k1.koalatv.net:2052/19494/919884/4110
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. ESTRENOS 2" tvg-logo="" group-title="|ES| CINE & SERIE",ES: M. ESTRENOS 2
+http://k1.koalatv.net:2052/19494/919884/27025
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. ESTRENOS 2 HD" tvg-logo="" group-title="|ES| CINE & SERIE",ES: M. ESTRENOS 2 HD
+http://k1.koalatv.net:2052/19494/919884/27026
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.CLASSICO" tvg-logo="" group-title="|ES| CINE & SERIE",ES: M.CLASSICO
+http://k1.koalatv.net:2052/19494/919884/27030
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.CLASSICO HD" tvg-logo="" group-title="|ES| CINE & SERIE",ES: M.CLASSICO HD
+http://k1.koalatv.net:2052/19494/919884/27032
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. ACCION" tvg-logo="http://tvpass.co.uk/logos/es/Movistar_Accion.png" group-title="|ES| CINE & SERIE",ES: M. ACCION
+http://k1.koalatv.net:2052/19494/919884/6703
+#EXTINF:-1 tvg-id="M.Accion.es" tvg-name="ES: M. ACCION HD" tvg-logo="http://fanc.tmsimg.com/assets/s91183_ll_h3_aa.png" group-title="|ES| CINE & SERIE",ES: M. ACCION HD
+http://k1.koalatv.net:2052/19494/919884/4107
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.COMEDIA" tvg-logo="http://tvpass.co.uk/logos/es/Movistar_Comedia.png" group-title="|ES| CINE & SERIE",ES: M.COMEDIA
+http://k1.koalatv.net:2052/19494/919884/6555
+#EXTINF:-1 tvg-id="M.Comedia.es" tvg-name="ES: M.COMEDIA HD" tvg-logo="http://fanc.tmsimg.com/assets/s91184_ll_h3_aa.png" group-title="|ES| CINE & SERIE",ES: M.COMEDIA HD
+http://k1.koalatv.net:2052/19494/919884/4108
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DRAMA" tvg-logo="http://obsfullhd.tv:25461/images/4e5b293c32a5770c6ea83c2dfb97e17d.png" group-title="|ES| CINE & SERIE",ES: M. DRAMA
+http://k1.koalatv.net:2052/19494/919884/6556
+#EXTINF:-1 tvg-id="M.Drama.es" tvg-name="ES: M. DRAMA HD" tvg-logo="http://fanc.tmsimg.com/assets/s86944_ll_h3_ab.png" group-title="|ES| CINE & SERIE",ES: M. DRAMA HD
+http://k1.koalatv.net:2052/19494/919884/4109
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. OSCARS HD" tvg-logo="" group-title="|ES| CINE & SERIE",ES: M. OSCARS HD
+http://k1.koalatv.net:2052/19494/919884/89612
+#EXTINF:-1 tvg-id="" tvg-name="ES: CINE N" tvg-logo="http://tvpass.co.uk/logos/es/Movistar_Cine_Espanol.png" group-title="|ES| CINE & SERIE",ES: CINE N
+http://k1.koalatv.net:2052/19494/919884/6557
+#EXTINF:-1 tvg-id="" tvg-name="ES: CINE N HD" tvg-logo="" group-title="|ES| CINE & SERIE",ES: CINE N HD
+http://k1.koalatv.net:2052/19494/919884/89618
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.FEST HD" tvg-logo="" group-title="|ES| CINE & SERIE",ES: M.FEST HD
+http://k1.koalatv.net:2052/19494/919884/27031
+#EXTINF:-1 tvg-id="" tvg-name="ES: DREAMWORKS" tvg-logo="" group-title="|ES| CINE & SERIE",ES: DREAMWORKS
+http://k1.koalatv.net:2052/19494/919884/27048
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD" tvg-logo="" group-title="|ES| CINE & SERIE",ES: HOLLYWOOD
+http://k1.koalatv.net:2052/19494/919884/6560
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD HD" tvg-logo="" group-title="|ES| CINE & SERIE",ES: HOLLYWOOD HD
+http://k1.koalatv.net:2052/19494/919884/4122
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM" tvg-logo="http://obsfullhd.tv:25461/images/60f6864e022b659a31ab16d5de02cbae.png" group-title="|ES| CINE & SERIE",ES: TCM
+http://k1.koalatv.net:2052/19494/919884/6559
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM HD" tvg-logo="http://obsfullhd.tv:25461/images/60f6864e022b659a31ab16d5de02cbae.png" group-title="|ES| CINE & SERIE",ES: TCM HD
+http://k1.koalatv.net:2052/19494/919884/4123
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX" tvg-logo="http://tvpass.co.uk/logos/es/FOX_International.png" group-title="|ES| CINE & SERIE",ES: FOX
+http://k1.koalatv.net:2052/19494/919884/6526
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX HD" tvg-logo="http://fanc.tmsimg.com/assets/s87056_ll_h3_aa.png" group-title="|ES| CINE & SERIE",ES: FOX HD
+http://k1.koalatv.net:2052/19494/919884/4118
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX LIFE" tvg-logo="http://tvpass.co.uk/logos/es/FOXLifeLA.png" group-title="|ES| CINE & SERIE",ES: FOX LIFE
+http://k1.koalatv.net:2052/19494/919884/6527
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX LIFE HD" tvg-logo="http://tvpass.co.uk/logos/es/FOXLifeLA.png" group-title="|ES| CINE & SERIE",ES: FOX LIFE HD
+http://k1.koalatv.net:2052/19494/919884/4119
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN" tvg-logo="http://obsfullhd.tv:25461/images/132fba05186b1767d3348729f613c7a8.png" group-title="|ES| CINE & SERIE",ES: AXN
+http://k1.koalatv.net:2052/19494/919884/6702
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN HD" tvg-logo="http://fanc.tmsimg.com/assets/s72534_ll_h3_ab.png" group-title="|ES| CINE & SERIE",ES: AXN HD
+http://k1.koalatv.net:2052/19494/919884/4116
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE" tvg-logo="http://obsfullhd.tv:25461/images/132fba05186b1767d3348729f613c7a8.png" group-title="|ES| CINE & SERIE",ES: AXN WHITE
+http://k1.koalatv.net:2052/19494/919884/6530
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE HD" tvg-logo="" group-title="|ES| CINE & SERIE",ES: AXN WHITE HD
+http://k1.koalatv.net:2052/19494/919884/4117
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT" tvg-logo="http://obsfullhd.tv:25461/images/077907a73fa487ea0cf7b541b860dfd3.png" group-title="|ES| CINE & SERIE",ES: TNT
+http://k1.koalatv.net:2052/19494/919884/6532
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT HD" tvg-logo="http://obsfullhd.tv:25461/images/077907a73fa487ea0cf7b541b860dfd3.png" group-title="|ES| CINE & SERIE",ES: TNT HD
+http://k1.koalatv.net:2052/19494/919884/4127
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL" tvg-logo="http://obsfullhd.tv:25461/images/b4791c14cff44bcb782dedcb28e73820.png" group-title="|ES| CINE & SERIE",ES: COMEDY CENTRAL
+http://k1.koalatv.net:2052/19494/919884/6534
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="http://tvpass.co.uk/logos/es/Comedy_Central_2018.png" group-title="|ES| CINE & SERIE",ES: COMEDY CENTRAL HD
+http://k1.koalatv.net:2052/19494/919884/6535
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13" tvg-logo="http://obsfullhd.tv:25461/images/cee8620391bf2508e1f02a2ada083450.png" group-title="|ES| CINE & SERIE",ES: CALLE 13
+http://k1.koalatv.net:2052/19494/919884/6536
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 HD" tvg-logo="http://fanc.tmsimg.com/assets/s90352_ll_h3_aa.png" group-title="|ES| CINE & SERIE",ES: CALLE 13 HD
+http://k1.koalatv.net:2052/19494/919884/4115
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO" tvg-logo="http://obsfullhd.tv:25461/images/920158d64369344dc7713d955eeb4139.png" group-title="|ES| CINE & SERIE",ES: COSMO
+http://k1.koalatv.net:2052/19494/919884/6538
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO HD" tvg-logo="http://tvpass.co.uk/logos/es/Cosmo_TV_logo_2009.png" group-title="|ES| CINE & SERIE",ES: COSMO HD
+http://k1.koalatv.net:2052/19494/919884/6539
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC" tvg-logo="http://obsfullhd.tv:25461/images/14ebf4e5622a32de02695cf9b5dc7fed.png" group-title="|ES| CINE & SERIE",ES: AMC
+http://k1.koalatv.net:2052/19494/919884/6540
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC HD" tvg-logo="http://obsfullhd.tv:25461/images/14ebf4e5622a32de02695cf9b5dc7fed.png" group-title="|ES| CINE & SERIE",ES: AMC HD
+http://k1.koalatv.net:2052/19494/919884/4124
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY" tvg-logo="http://obsfullhd.tv:25461/images/7524c64df439ff023daab9eee2b48f00.png" group-title="|ES| CINE & SERIE",ES: SYFY
+http://k1.koalatv.net:2052/19494/919884/6542
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY HD" tvg-logo="http://obsfullhd.tv:25461/images/7524c64df439ff023daab9eee2b48f00.png" group-title="|ES| CINE & SERIE",ES: SYFY HD
+http://k1.koalatv.net:2052/19494/919884/4120
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE TV" tvg-logo="http://obsfullhd.tv:25461/images/42f720f17d9f53d04d51c6221138d7fc.png" group-title="|ES| CINE & SERIE",ES: SUNDANCE TV
+http://k1.koalatv.net:2052/19494/919884/4141
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOM CINE" tvg-logo="" group-title="|ES| CINE & SERIE",ES: BOM CINE
+http://k1.koalatv.net:2052/19494/919884/4121
+#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM HD" tvg-logo="" group-title="|ES| CINE & SERIE",ES: XTRM HD
+http://k1.koalatv.net:2052/19494/919884/6547
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEOX" tvg-logo="http://fanc.tmsimg.com/assets/s78990_ll_h3_ab.png" group-title="|ES| CINE & SERIE",ES: NEOX
+http://k1.koalatv.net:2052/19494/919884/4101
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEOX HD" tvg-logo="http://obsfullhd.tv:25461/images/2b9841c3697f57d19c311b9a8e56ec3c.png" group-title="|ES| CINE & SERIE",ES: NEOX HD
+http://k1.koalatv.net:2052/19494/919884/6545
+#EXTINF:-1 tvg-id="" tvg-name="ES: ATRESSERIES HD" tvg-logo="http://obsfullhd.tv:25461/images/cdbc51673b283b91bbcc95656f740bf0.png" group-title="|ES| CINE & SERIE",ES: ATRESSERIES HD
+http://k1.koalatv.net:2052/19494/919884/6524
+#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT" tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="|ES| CINE & SERIE",ES: PARAMOUNT
+http://k1.koalatv.net:2052/19494/919884/4125
+#EXTINF:-1 tvg-id="" tvg-name="ES: TEN" tvg-logo="" group-title="|ES| ENTRETENIMIENTO",ES: TEN
+http://k1.koalatv.net:2052/19494/919884/4143
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENERGY" tvg-logo="http://fanc.tmsimg.com/assets/s87042_ll_h3_aa.png" group-title="|ES| CINE & SERIE",ES: ENERGY
+http://k1.koalatv.net:2052/19494/919884/4104
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEGA HD" tvg-logo="http://tvpass.co.uk/logos/es/Mega_Spain_2015.png" group-title="|ES| CINE & SERIE",ES: MEGA HD
+http://k1.koalatv.net:2052/19494/919884/6600
+#EXTINF:-1 tvg-id="" tvg-name="ES: SOMOS HD" tvg-logo="http://fanc.tmsimg.com/assets/s90363_ll_h3_aa.png" group-title="|ES| ENTRETENIMIENTO",ES: SOMOS HD
+http://k1.koalatv.net:2052/19494/919884/4114
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA RESISTENCIA" tvg-logo="" group-title="|ES| CINE & SERIE",ES: LA RESISTENCIA
+http://k1.koalatv.net:2052/19494/919884/27029
+#EXTINF:-1 tvg-id="" tvg-name="------DESCUBRIMIENTO------" tvg-logo="" group-title="|ES| DESCUBRIMIENTO",------DESCUBRIMIENTO------
+http://k1.koalatv.net:2052/19494/919884/27093
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="http://obsfullhd.tv:25461/images/677a740d30b70f11b660199c2cfa2a01.png" group-title="|ES| DESCUBRIMIENTO",ES: NATIONAL GEOGRAPHIC
+http://k1.koalatv.net:2052/19494/919884/6629
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="http://obsfullhd.tv:25461/images/677a740d30b70f11b660199c2cfa2a01.png" group-title="|ES| DESCUBRIMIENTO",ES: NATIONAL GEOGRAPHIC HD
+http://k1.koalatv.net:2052/19494/919884/6630
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC WILD" tvg-logo="" group-title="|ES| DESCUBRIMIENTO",ES: NATIONAL GEOGRAPHIC WILD
+http://k1.koalatv.net:2052/19494/919884/6631
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://obsfullhd.tv:25461/images/677a740d30b70f11b660199c2cfa2a01.png" group-title="|ES| DESCUBRIMIENTO",ES: NATIONAL GEOGRAPHIC WILD HD
+http://k1.koalatv.net:2052/19494/919884/6695
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA" tvg-logo="http://live.nex-tv.tk:80/images/e78d5f08f9ad3bc9e839f7f6d176b267.png" group-title="|ES| DESCUBRIMIENTO",ES: HISTORIA
+http://k1.koalatv.net:2052/19494/919884/6632
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA HD" tvg-logo="http://fanc.tmsimg.com/assets/s90350_ll_h3_aa.png" group-title="|ES| DESCUBRIMIENTO",ES: HISTORIA HD
+http://k1.koalatv.net:2052/19494/919884/4137
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY" tvg-logo="http://tvpass.co.uk/logos/es/Discovery_Channel_2019.png" group-title="|ES| DESCUBRIMIENTO",ES: DISCOVERY
+http://k1.koalatv.net:2052/19494/919884/6633
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY HD" tvg-logo="http://fanc.tmsimg.com/assets/s15798_ll_h3_ab.png" group-title="|ES| DESCUBRIMIENTO",ES: DISCOVERY HD
+http://k1.koalatv.net:2052/19494/919884/4135
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL ODISEA" tvg-logo="http://obsfullhd.tv:25461/images/831576acd585fbe847690893b643f0db.png" group-title="|ES| DESCUBRIMIENTO",ES: CANAL ODISEA
+http://k1.koalatv.net:2052/19494/919884/6635
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL ODISEA HD" tvg-logo="http://fanc.tmsimg.com/assets/s53785_ll_h3_aa.png" group-title="|ES| DESCUBRIMIENTO",ES: CANAL ODISEA HD
+http://k1.koalatv.net:2052/19494/919884/4149
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIAJAR" tvg-logo="http://obsfullhd.tv:25461/images/0a8b1ca0f16a65f19ee0729cd249d0a1.png" group-title="|ES| DESCUBRIMIENTO",ES: VIAJAR
+http://k1.koalatv.net:2052/19494/919884/6638
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIAJAR HD" tvg-logo="http://obsfullhd.tv:25461/images/0a8b1ca0f16a65f19ee0729cd249d0a1.png" group-title="|ES| DESCUBRIMIENTO",ES: VIAJAR HD
+http://k1.koalatv.net:2052/19494/919884/6637
+#EXTINF:-1 tvg-id="" tvg-name="ES: DMAX" tvg-logo="http://obsfullhd.tv:25461/images/888d0d03549e54793050d64651d143fa.png" group-title="|ES| DESCUBRIMIENTO",ES: DMAX
+http://k1.koalatv.net:2052/19494/919884/6634
+#EXTINF:-1 tvg-id="" tvg-name="ES: DKISS" tvg-logo="http://obsfullhd.tv:25461/images/afccc3195fe20727961833a33a594537.png" group-title="|ES| DESCUBRIMIENTO",ES: DKISS
+http://k1.koalatv.net:2052/19494/919884/6644
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y PESCA" tvg-logo="http://obsfullhd.tv:25461/images/7d03effc36059fbdbb44a6138f4a7a27.png" group-title="|ES| DESCUBRIMIENTO",ES: CAZA Y PESCA
+http://k1.koalatv.net:2052/19494/919884/6646
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="http://obsfullhd.tv:25461/images/7d03effc36059fbdbb44a6138f4a7a27.png" group-title="|ES| DESCUBRIMIENTO",ES: CAZA Y PESCA HD
+http://k1.koalatv.net:2052/19494/919884/6645
+#EXTINF:-1 tvg-id="" tvg-name="ES: CRIMEN+INVES" tvg-logo="http://tvpass.co.uk/logos/es/Crimen_Investigacion.png" group-title="|ES| DESCUBRIMIENTO",ES: CRIMEN+INVES
+http://k1.koalatv.net:2052/19494/919884/6639
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAUTICAL CHANNEL" tvg-logo="" group-title="|ES| DESCUBRIMIENTO",ES: NAUTICAL CHANNEL
+http://k1.koalatv.net:2052/19494/919884/89613
+#EXTINF:-1 tvg-id="" tvg-name="------DEPORTES------" tvg-logo="" group-title="|ES| DEPORTES",------DEPORTES------
+http://k1.koalatv.net:2052/19494/919884/27094
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="ES: DAZN 1" tvg-logo="http://fanc.tmsimg.com/assets/s111745_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: DAZN 1
+http://k1.koalatv.net:2052/19494/919884/3393
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="ES: DAZN 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s111745_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: DAZN 1 HD
+http://k1.koalatv.net:2052/19494/919884/3392
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2" tvg-logo="http://fanc.tmsimg.com/assets/s111745_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: DAZN 2
+http://k1.koalatv.net:2052/19494/919884/6607
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s111745_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: DAZN 2 HD
+http://k1.koalatv.net:2052/19494/919884/3394
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3" tvg-logo="http://tvpass.co.uk/logos/de/DAZN.png" group-title="|ES| DEPORTES",ES: DAZN 3
+http://k1.koalatv.net:2052/19494/919884/6609
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3 HD" tvg-logo="http://tvpass.co.uk/logos/de/DAZN.png" group-title="|ES| DEPORTES",ES: DAZN 3 HD
+http://k1.koalatv.net:2052/19494/919884/6608
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4" tvg-logo="http://tvpass.co.uk/logos/de/DAZN.png" group-title="|ES| DEPORTES",ES: DAZN 4
+http://k1.koalatv.net:2052/19494/919884/6610
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4 HD" tvg-logo="http://tvpass.co.uk/logos/de/DAZN.png" group-title="|ES| DEPORTES",ES: DAZN 4 HD
+http://k1.koalatv.net:2052/19494/919884/6696
+#EXTINF:-1 tvg-id="DAZN_F1.es" tvg-name="ES: DAZN F1" tvg-logo="http://tvpass.co.uk/logos/de/DAZN.png" group-title="|ES| DEPORTES",ES: DAZN F1
+http://k1.koalatv.net:2052/19494/919884/27056
+#EXTINF:-1 tvg-id="DAZN_F1.es" tvg-name="ES: DAZN F1 HD" tvg-logo="http://tvpass.co.uk/logos/de/DAZN.png" group-title="|ES| DEPORTES",ES: DAZN F1 HD
+http://k1.koalatv.net:2052/19494/919884/27055
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES: #VAMOS" tvg-logo="http://fanc.tmsimg.com/assets/s109803_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: #VAMOS
+http://k1.koalatv.net:2052/19494/919884/3396
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES: #VAMOSHD" tvg-logo="http://fanc.tmsimg.com/assets/s109803_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: #VAMOSHD
+http://k1.koalatv.net:2052/19494/919884/3395
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 1HD*" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="|ES| DEPORTES",ES: DAZN LALIGA 1HD*
+http://k1.koalatv.net:2052/19494/919884/112640
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="|ES| DEPORTES",ES: DAZN LALIGA 1
+http://k1.koalatv.net:2052/19494/919884/112641
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 1HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="|ES| DEPORTES",ES: DAZN LALIGA 1HD
+http://k1.koalatv.net:2052/19494/919884/112486
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2HD*" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="|ES| DEPORTES",ES: DAZN LALIGA 2HD*
+http://k1.koalatv.net:2052/19494/919884/112642
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="|ES| DEPORTES",ES: DAZN LALIGA 2HD
+http://k1.koalatv.net:2052/19494/919884/112487
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA SMARTBANK TV" tvg-logo="" group-title="|ES| DEPORTES",ES: LA LIGA SMARTBANK TV
+http://k1.koalatv.net:2052/19494/919884/115635
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA SMARTBANK TV HD" tvg-logo="" group-title="|ES| DEPORTES",ES: LALIGA SMARTBANK TV HD
+http://k1.koalatv.net:2052/19494/919884/112643
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA SMARTBANK TV 1 HD" tvg-logo="" group-title="|ES| DEPORTES",ES: LALIGA SMARTBANK TV 1 HD
+http://k1.koalatv.net:2052/19494/919884/112644
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA SMARTBANK TV M1" tvg-logo="" group-title="|ES| DEPORTES",ES: LA LIGA SMARTBANK TV M1
+http://k1.koalatv.net:2052/19494/919884/115634
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR HD*" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: LALIGA TV BAR HD*
+http://k1.koalatv.net:2052/19494/919884/86581
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: LALIGA TV BAR
+http://k1.koalatv.net:2052/19494/919884/6169
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR HD" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: LALIGA TV BAR HD
+http://k1.koalatv.net:2052/19494/919884/6168
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga HD*" tvg-logo="" group-title="|ES| DEPORTES",ES: M. LaLiga HD*
+http://k1.koalatv.net:2052/19494/919884/6683
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="ES: M. LaLiga FHD" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. LaLiga FHD
+http://k1.koalatv.net:2052/19494/919884/3397
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="ES: M. LaLiga" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. LaLiga
+http://k1.koalatv.net:2052/19494/919884/3398
+#EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="ES: M. LaLiga 1" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. LaLiga 1
+http://k1.koalatv.net:2052/19494/919884/3400
+#EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="ES: M. LaLiga 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. LaLiga 1 HD
+http://k1.koalatv.net:2052/19494/919884/3399
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 2" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. LaLiga 2
+http://k1.koalatv.net:2052/19494/919884/3401
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. LaLiga 2 HD
+http://k1.koalatv.net:2052/19494/919884/27057
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES: M. LaLiga 3" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. LaLiga 3
+http://k1.koalatv.net:2052/19494/919884/3403
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES: M. LaLiga 3 HD" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. LaLiga 3 HD
+http://k1.koalatv.net:2052/19494/919884/3402
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 4" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. LaLiga 4
+http://k1.koalatv.net:2052/19494/919884/6578
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 5" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. LaLiga 5
+http://k1.koalatv.net:2052/19494/919884/6579
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 6" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. LaLiga 6
+http://k1.koalatv.net:2052/19494/919884/6580
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 7" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. LaLiga 7
+http://k1.koalatv.net:2052/19494/919884/6581
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga 8" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. LaLiga 8
+http://k1.koalatv.net:2052/19494/919884/6582
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEONES HD*" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M.LCAMPEONES HD*
+http://k1.koalatv.net:2052/19494/919884/27019
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-name="ES: M.LCAMPEONES FHD" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M.LCAMPEONES FHD
+http://k1.koalatv.net:2052/19494/919884/3404
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON1 HD*" tvg-logo="" group-title="|ES| DEPORTES",ES: M.LCAMPEON1 HD*
+http://k1.koalatv.net:2052/19494/919884/87335
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON1" tvg-logo="" group-title="|ES| DEPORTES",ES: M.LCAMPEON1
+http://k1.koalatv.net:2052/19494/919884/87337
+#EXTINF:-1 tvg-id="M.LigaCampeones1.es" tvg-name="ES: M.LCAMPEON1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M.LCAMPEON1 HD
+http://k1.koalatv.net:2052/19494/919884/3406
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON2 HD*" tvg-logo="" group-title="|ES| DEPORTES",ES: M.LCAMPEON2 HD*
+http://k1.koalatv.net:2052/19494/919884/87336
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON2" tvg-logo="" group-title="|ES| DEPORTES",ES: M.LCAMPEON2
+http://k1.koalatv.net:2052/19494/919884/87338
+#EXTINF:-1 tvg-id="M.LigaCampeones2.es" tvg-name="ES: M.LCAMPEON2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M.LCAMPEON2 HD
+http://k1.koalatv.net:2052/19494/919884/3407
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON3" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M.LCAMPEON3
+http://k1.koalatv.net:2052/19494/919884/6587
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON4" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M.LCAMPEON4
+http://k1.koalatv.net:2052/19494/919884/6588
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON5" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M.LCAMPEON5
+http://k1.koalatv.net:2052/19494/919884/6589
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON6" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M.LCAMPEON6
+http://k1.koalatv.net:2052/19494/919884/6590
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON7" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M.LCAMPEON7
+http://k1.koalatv.net:2052/19494/919884/6591
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LCAMPEON8" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M.LCAMPEON8
+http://k1.koalatv.net:2052/19494/919884/6592
+#EXTINF:-1 tvg-id="M.Deportes.es" tvg-name="ES: M. DEPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. DEPORTES
+http://k1.koalatv.net:2052/19494/919884/3409
+#EXTINF:-1 tvg-id="M.Deportes.es" tvg-name="ES: M. DEPORTES HD" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. DEPORTES HD
+http://k1.koalatv.net:2052/19494/919884/3408
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES1" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. DEPORTES1
+http://k1.koalatv.net:2052/19494/919884/3411
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. DEPORTES 1 HD
+http://k1.koalatv.net:2052/19494/919884/3410
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES2" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. DEPORTES2
+http://k1.koalatv.net:2052/19494/919884/3412
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES3" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. DEPORTES3
+http://k1.koalatv.net:2052/19494/919884/3413
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES4" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="|ES| DEPORTES",ES: M. DEPORTES4
+http://k1.koalatv.net:2052/19494/919884/6594
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. GOLF" tvg-logo="" group-title="|ES| DEPORTES",ES: M. GOLF
+http://k1.koalatv.net:2052/19494/919884/3415
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. GOLF HD" tvg-logo="" group-title="|ES| DEPORTES",ES: M. GOLF HD
+http://k1.koalatv.net:2052/19494/919884/3414
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1" tvg-logo="" group-title="|ES| DEPORTES",ES: EUROSPORT 1
+http://k1.koalatv.net:2052/19494/919884/3416
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="http://tvpass.co.uk/logos/es/Eurosport_1.png" group-title="|ES| DEPORTES",ES: EUROSPORT 1 HD
+http://k1.koalatv.net:2052/19494/919884/6603
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2" tvg-logo="" group-title="|ES| DEPORTES",ES: EUROSPORT 2
+http://k1.koalatv.net:2052/19494/919884/3417
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="http://tvpass.co.uk/logos/es/Eurosport_2.png" group-title="|ES| DEPORTES",ES: EUROSPORT 2 HD
+http://k1.koalatv.net:2052/19494/919884/6604
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 3" tvg-logo="" group-title="|ES| DEPORTES",ES: EUROSPORT 3
+http://k1.koalatv.net:2052/19494/919884/27041
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 3 HD" tvg-logo="" group-title="|ES| DEPORTES",ES: EUROSPORT 3 HD
+http://k1.koalatv.net:2052/19494/919884/27040
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 4" tvg-logo="" group-title="|ES| DEPORTES",ES: EUROSPORT 4
+http://k1.koalatv.net:2052/19494/919884/27039
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 5" tvg-logo="" group-title="|ES| DEPORTES",ES: EUROSPORT 5
+http://k1.koalatv.net:2052/19494/919884/27038
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 6" tvg-logo="" group-title="|ES| DEPORTES",ES: EUROSPORT 6
+http://k1.koalatv.net:2052/19494/919884/27037
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 7" tvg-logo="" group-title="|ES| DEPORTES",ES: EUROSPORT 7
+http://k1.koalatv.net:2052/19494/919884/27036
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 8" tvg-logo="" group-title="|ES| DEPORTES",ES: EUROSPORT 8
+http://k1.koalatv.net:2052/19494/919884/27035
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 9" tvg-logo="" group-title="|ES| DEPORTES",ES: EUROSPORT 9
+http://k1.koalatv.net:2052/19494/919884/27034
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL" tvg-logo="" group-title="|ES| DEPORTES",ES: GOL
+http://k1.koalatv.net:2052/19494/919884/3418
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL HD" tvg-logo="http://tvpass.co.uk/logos/es/Gol.svg.png" group-title="|ES| DEPORTES",ES: GOL HD
+http://k1.koalatv.net:2052/19494/919884/6601
+#EXTINF:-1 tvg-id="" tvg-name="ES: SEVILLA FC HD" tvg-logo="" group-title="|ES| DEPORTES",ES: SEVILLA FC HD
+http://k1.koalatv.net:2052/19494/919884/115631
+#EXTINF:-1 tvg-id="" tvg-name="ES: BETIS TV HD" tvg-logo="" group-title="|ES| DEPORTES",ES: BETIS TV HD
+http://k1.koalatv.net:2052/19494/919884/115632
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOTOADTV HD" tvg-logo="" group-title="|ES| DEPORTES",ES: MOTOADTV HD
+http://k1.koalatv.net:2052/19494/919884/115633
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE" tvg-logo="" group-title="|ES| DEPORTES",ES: TELEDEPORTE
+http://k1.koalatv.net:2052/19494/919884/3419
+#EXTINF:-1 tvg-id="" tvg-name="ES: TDP" tvg-logo="" group-title="|ES| DEPORTES",ES: TDP
+http://k1.koalatv.net:2052/19494/919884/3421
+#EXTINF:-1 tvg-id="" tvg-name="ES: TDP HD" tvg-logo="" group-title="|ES| DEPORTES",ES: TDP HD
+http://k1.koalatv.net:2052/19494/919884/3420
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mundotoro" tvg-logo="http://obsfullhd.tv:25461/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="|ES| DEPORTES",ES: Mundotoro
+http://k1.koalatv.net:2052/19494/919884/3426
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mundotoro HD" tvg-logo="http://obsfullhd.tv:25461/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="|ES| DEPORTES",ES: Mundotoro HD
+http://k1.koalatv.net:2052/19494/919884/3425
+#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV" tvg-logo="" group-title="|ES| DEPORTES",ES: REAL MADRID TV
+http://k1.koalatv.net:2052/19494/919884/3428
+#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV HD" tvg-logo="" group-title="|ES| DEPORTES",ES: REAL MADRID TV HD
+http://k1.koalatv.net:2052/19494/919884/3427
+#EXTINF:-1 tvg-id="" tvg-name="ES: BARCA TV" tvg-logo="" group-title="|ES| DEPORTES",ES: BARCA TV
+http://k1.koalatv.net:2052/19494/919884/3429
+#EXTINF:-1 tvg-id="" tvg-name="------JUVENTUD------" tvg-logo="" group-title="|ES| JUVENTUD",------JUVENTUD------
+http://k1.koalatv.net:2052/19494/919884/27092
+#EXTINF:-1 tvg-id="" tvg-name="ES: BABY TV" tvg-logo="http://obsfullhd.tv:25461/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png" group-title="|ES| JUVENTUD",ES: BABY TV
+http://k1.koalatv.net:2052/19494/919884/6654
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CH" tvg-logo="http://tvpass.co.uk/logos/es/DC_2K14_2D.png" group-title="|ES| JUVENTUD",ES: DISNEY CH
+http://k1.koalatv.net:2052/19494/919884/6552
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CH HD" tvg-logo="http://tvpass.co.uk/logos/es/DC_2K14_2D.png" group-title="|ES| JUVENTUD",ES: DISNEY CH HD
+http://k1.koalatv.net:2052/19494/919884/6553
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY JUNIOR" tvg-logo="http://tvpass.co.uk/logos/es/Disney_Junior_2019.png" group-title="|ES| JUVENTUD",ES: DISNEY JUNIOR
+http://k1.koalatv.net:2052/19494/919884/6658
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL PANDA" tvg-logo="http://obsfullhd.tv:25461/images/4f16270d894bc27e9b6217b36aab71d4.png" group-title="|ES| JUVENTUD",ES: CANAL PANDA
+http://k1.koalatv.net:2052/19494/919884/6656
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON" tvg-logo="http://obsfullhd.tv:25461/images/7b7556a1b4244de75af6cf37ffa7ac07.png" group-title="|ES| JUVENTUD",ES: NICKELODEON
+http://k1.koalatv.net:2052/19494/919884/4155
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON HD" tvg-logo="http://obsfullhd.tv:25461/images/7b7556a1b4244de75af6cf37ffa7ac07.png" group-title="|ES| JUVENTUD",ES: NICKELODEON HD
+http://k1.koalatv.net:2052/19494/919884/6657
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICK JR" tvg-logo="http://obsfullhd.tv:25461/images/93f0565309cd9096dbd84fa8c384f9d3.png" group-title="|ES| JUVENTUD",ES: NICK JR
+http://k1.koalatv.net:2052/19494/919884/6655
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOING" tvg-logo="http://obsfullhd.tv:25461/images/013fe2b1d8b97e291062de11501c635e.png" group-title="|ES| JUVENTUD",ES: BOING
+http://k1.koalatv.net:2052/19494/919884/6652
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLAN" tvg-logo="http://tvpass.co.uk/logos/es/Clan_TVE_logo.png" group-title="|ES| JUVENTUD",ES: CLAN
+http://k1.koalatv.net:2052/19494/919884/6653
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLAN HD" tvg-logo="http://fanc.tmsimg.com/assets/s106102_h3_aa.png" group-title="|ES| JUVENTUD",ES: CLAN HD
+http://k1.koalatv.net:2052/19494/919884/4152
+#EXTINF:-1 tvg-id="" tvg-name="ES: M DEPORTES HD" tvg-logo="http://obsfullhd.tv:25461/images/6c32fa368835a1448e47defee4b05867.png" group-title="|ES| DEPORTES",ES: M DEPORTES HD
+http://k1.koalatv.net:2052/19494/919884/6710
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL PORTADA" tvg-logo="" group-title="|ES| DEPORTES",ES: CANAL PORTADA
+http://k1.koalatv.net:2052/19494/919884/27042
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LA LIGA HD ORANGE" tvg-logo="" group-title="|ES| DEPORTES",ES: M.LA LIGA HD ORANGE
+http://k1.koalatv.net:2052/19494/919884/27043
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANDALUCIA TV" tvg-logo="http://fanc.tmsimg.com/assets/s53426_ll_h3_aa.png" group-title="|ES| SPAIN",ES: ANDALUCIA TV
+http://k1.koalatv.net:2052/19494/919884/4130
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEMADRID" tvg-logo="http://fanc.tmsimg.com/assets/s91226_ll_h3_aa.png" group-title="|ES| SPAIN",ES: TELEMADRID
+http://k1.koalatv.net:2052/19494/919884/4131
+#EXTINF:-1 tvg-id="" tvg-name="ES: MELILLA TV" tvg-logo="" group-title="|ES| SPAIN",ES: MELILLA TV
+http://k1.koalatv.net:2052/19494/919884/4132
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR A." tvg-logo="" group-title="|ES| SPAIN",ES: CANAL SUR A.
+http://k1.koalatv.net:2052/19494/919884/6664
+#EXTINF:-1 tvg-id="" tvg-name="ES: Aragon TV" tvg-logo="http://obsfullhd.tv:25461/images/1c4522ecd54b26638c0295d13dd83c1e.png" group-title="|ES| SPAIN",ES: Aragon TV
+http://k1.koalatv.net:2052/19494/919884/6665
+#EXTINF:-1 tvg-id="" tvg-name="ES: Extremadura TV" tvg-logo="http://tvpass.co.uk/logos/es/Extremadura.png" group-title="|ES| SPAIN",ES: Extremadura TV
+http://k1.koalatv.net:2052/19494/919884/6707
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV3 CATALONIA HD" tvg-logo="http://obsfullhd.tv:25461/images/b2612cd6cbe07d38fdfe2f8cca6c942c.png" group-title="|ES| SPAIN",ES: TV3 CATALONIA HD
+http://k1.koalatv.net:2052/19494/919884/6711
+#EXTINF:-1 tvg-id="" tvg-name="ES: TRECE HD" tvg-logo="http://obsfullhd.tv:25461/images/db352f430608228326e2defc3d6fb2a2.png" group-title="|ES| SPAIN",ES: TRECE HD
+http://k1.koalatv.net:2052/19494/919884/6716
+#EXTINF:-1 tvg-id="" tvg-name="ES: CMM" tvg-logo="" group-title="|ES| SPAIN",ES: CMM
+http://k1.koalatv.net:2052/19494/919884/6720
+#EXTINF:-1 tvg-id="" tvg-name="ES: DARK HD" tvg-logo="" group-title="|ES| CINE & SERIE",ES: DARK HD
+http://k1.koalatv.net:2052/19494/919884/27027
+#EXTINF:-1 tvg-id="" tvg-name="ES: 13TV" tvg-logo="" group-title="|ES| CINE & SERIE",ES: 13TV
+http://k1.koalatv.net:2052/19494/919884/4126
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA TV" tvg-logo="http://fanc.tmsimg.com/assets/s102752_h3_aa.png" group-title="|ES| ENTRETENIMIENTO",ES: IBERALIA TV
+http://k1.koalatv.net:2052/19494/919884/3424
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVE 24H" tvg-logo="" group-title="|ES| ENTRETENIMIENTO",ES: TVE 24H
+http://k1.koalatv.net:2052/19494/919884/4145
+#EXTINF:-1 tvg-id="" tvg-name="ES: CNN" tvg-logo="http://fanc.tmsimg.com/assets/s84528_ll_h3_aa.png" group-title="|ES| ENTRETENIMIENTO",ES: CNN
+http://k1.koalatv.net:2052/19494/919884/4146
+#EXTINF:-1 tvg-id="" tvg-name="ES: BLOOMBERG" tvg-logo="http://fanc.tmsimg.com/assets/s14755_ll_h3_ab.png" group-title="|ES| ENTRETENIMIENTO",ES: BLOOMBERG
+http://k1.koalatv.net:2052/19494/919884/4147
+#EXTINF:-1 tvg-id="" tvg-name="ES: TEN" tvg-logo="http://obsfullhd.tv:25461/images/5e3cebad97c9c838cfe7f5a3302ffe40.png" group-title="|ES| CINE & SERIE",ES: TEN
+http://k1.koalatv.net:2052/19494/919884/6651
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV ESPANA" tvg-logo="http://obsfullhd.tv:25461/images/7dff1d0cc8d6860736984de360d87472.png" group-title="|ES| ENTRETENIMIENTO",ES: MTV ESPANA
+http://k1.koalatv.net:2052/19494/919884/6660
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO" tvg-logo="" group-title="|ES| ENTRETENIMIENTO",ES: MEZZO
+http://k1.koalatv.net:2052/19494/919884/6661
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO LIVE HD" tvg-logo="http://obsfullhd.tv:25461/images/8dd3120c7286cc284d8e32f7509bb33a.png" group-title="|ES| ENTRETENIMIENTO",ES: MEZZO LIVE HD
+http://k1.koalatv.net:2052/19494/919884/6662
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLASSICA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CLASSICA.png" group-title="|ES| ENTRETENIMIENTO",ES: CLASSICA
+http://k1.koalatv.net:2052/19494/919884/6663
+#EXTINF:-1 tvg-id="" tvg-name="ES: A&E" tvg-logo="http://obsfullhd.tv:25461/images/d6c69f64082f75c962dcfadecbbbc339.png" group-title="|ES| DESCUBRIMIENTO",ES: A&E
+http://k1.koalatv.net:2052/19494/919884/6670
+#EXTINF:-1 tvg-id="" tvg-name="ES: SOL MUSICA" tvg-logo="" group-title="|ES| SPAIN",ES: SOL MUSICA
+http://k1.koalatv.net:2052/19494/919884/89614
+#EXTINF:-1 tvg-id="" tvg-name="ES: UBEAT" tvg-logo="" group-title="|ES| SPAIN",ES: UBEAT
+http://k1.koalatv.net:2052/19494/919884/89615
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEGOCIOS TV" tvg-logo="" group-title="|ES| SPAIN",ES: NEGOCIOS TV
+http://k1.koalatv.net:2052/19494/919884/89616
+#EXTINF:-1 tvg-id="" tvg-name="ES: HORSE TV" tvg-logo="" group-title="|ES| SPAIN",ES: HORSE TV
+http://k1.koalatv.net:2052/19494/919884/89617
+#EXTINF:-1 tvg-id="" tvg-name="------SPAIN_HEVC------" tvg-logo="" group-title="|ES| SPAIN HEVC",------SPAIN_HEVC------
+http://k1.koalatv.net:2052/19494/919884/27095
+#EXTINF:-1 tvg-id="" tvg-name="ES:LA 1 HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:LA 1 HEVC
+http://k1.koalatv.net:2052/19494/919884/17668
+#EXTINF:-1 tvg-id="" tvg-name="ES:LA 2 HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:LA 2 HEVC
+http://k1.koalatv.net:2052/19494/919884/17673
+#EXTINF:-1 tvg-id="" tvg-name="ES:Canal 24 Horas HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:Canal 24 Horas HEVC
+http://k1.koalatv.net:2052/19494/919884/17674
+#EXTINF:-1 tvg-id="" tvg-name="ES:TVE Internacional HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:TVE Internacional HEVC
+http://k1.koalatv.net:2052/19494/919884/17675
+#EXTINF:-1 tvg-id="" tvg-name="ES:ANTENA 3 HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:ANTENA 3 HEVC
+http://k1.koalatv.net:2052/19494/919884/17676
+#EXTINF:-1 tvg-id="" tvg-name="ES:CUATRO HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:CUATRO HEVC
+http://k1.koalatv.net:2052/19494/919884/17677
+#EXTINF:-1 tvg-id="" tvg-name="ES:TELECINCO HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:TELECINCO HEVC
+http://k1.koalatv.net:2052/19494/919884/17678
+#EXTINF:-1 tvg-id="" tvg-name="ES:LA SEXTA HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:LA SEXTA HEVC
+http://k1.koalatv.net:2052/19494/919884/17679
+#EXTINF:-1 tvg-id="" tvg-name="ES:DAZN 1 HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:DAZN 1 HEVC
+http://k1.koalatv.net:2052/19494/919884/17672
+#EXTINF:-1 tvg-id="" tvg-name="ES:DAZN 2 HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:DAZN 2 HEVC
+http://k1.koalatv.net:2052/19494/919884/17671
+#EXTINF:-1 tvg-id="" tvg-name="ES:DAZN F1 HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:DAZN F1 HEVC
+http://k1.koalatv.net:2052/19494/919884/17669
+#EXTINF:-1 tvg-id="" tvg-name="ES: # VAMOS HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES: # VAMOS HEVC
+http://k1.koalatv.net:2052/19494/919884/17714
+#EXTINF:-1 tvg-id="" tvg-name="ES:LIGA DE CAMPEONES HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:LIGA DE CAMPEONES HEVC
+http://k1.koalatv.net:2052/19494/919884/17715
+#EXTINF:-1 tvg-id="" tvg-name="ES:M. LALIGA HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:M. LALIGA HEVC
+http://k1.koalatv.net:2052/19494/919884/17716
+#EXTINF:-1 tvg-id="" tvg-name="ES:M. LALIGA1 HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:M. LALIGA1 HEVC
+http://k1.koalatv.net:2052/19494/919884/17717
+#EXTINF:-1 tvg-id="" tvg-name="ES:M. GOLF HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:M. GOLF HEVC
+http://k1.koalatv.net:2052/19494/919884/17718
+#EXTINF:-1 tvg-id="" tvg-name="ES:M. DEPORTES HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:M. DEPORTES HEVC
+http://k1.koalatv.net:2052/19494/919884/17719
+#EXTINF:-1 tvg-id="" tvg-name="ES:M. DEPORTES 1 HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:M. DEPORTES 1 HEVC
+http://k1.koalatv.net:2052/19494/919884/17720
+#EXTINF:-1 tvg-id="" tvg-name="ES:MULTIDEPORTE HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:MULTIDEPORTE HEVC
+http://k1.koalatv.net:2052/19494/919884/17721
+#EXTINF:-1 tvg-id="" tvg-name="ES:GOL TV HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:GOL TV HEVC
+http://k1.koalatv.net:2052/19494/919884/17722
+#EXTINF:-1 tvg-id="" tvg-name="ES:TELEDEPORTE HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:TELEDEPORTE HEVC
+http://k1.koalatv.net:2052/19494/919884/17723
+#EXTINF:-1 tvg-id="" tvg-name="ES:REAL MADRID TV HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:REAL MADRID TV HEVC
+http://k1.koalatv.net:2052/19494/919884/17724
+#EXTINF:-1 tvg-id="" tvg-name="ES:EUROSPORT 1 HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:EUROSPORT 1 HEVC
+http://k1.koalatv.net:2052/19494/919884/17725
+#EXTINF:-1 tvg-id="" tvg-name="ES:EUROSPORT 2 HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:EUROSPORT 2 HEVC
+http://k1.koalatv.net:2052/19494/919884/17726
+#EXTINF:-1 tvg-id="" tvg-name="ES:#0 HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:#0 HEVC
+http://k1.koalatv.net:2052/19494/919884/17698
+#EXTINF:-1 tvg-id="" tvg-name="ES:M. ESTRENOS HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:M. ESTRENOS HEVC
+http://k1.koalatv.net:2052/19494/919884/17687
+#EXTINF:-1 tvg-id="" tvg-name="ES:M. ACCION HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:M. ACCION HEVC
+http://k1.koalatv.net:2052/19494/919884/17688
+#EXTINF:-1 tvg-id="" tvg-name="ES:M. COMEDIA HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:M. COMEDIA HEVC
+http://k1.koalatv.net:2052/19494/919884/17689
+#EXTINF:-1 tvg-id="" tvg-name="ES:M. DRAMA HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:M. DRAMA HEVC
+http://k1.koalatv.net:2052/19494/919884/17690
+#EXTINF:-1 tvg-id="" tvg-name="ES:M. CINEDOC&ROLL HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:M. CINEDOC&ROLL HEVC
+http://k1.koalatv.net:2052/19494/919884/17691
+#EXTINF:-1 tvg-id="" tvg-name="ES:M. CINE EspaNol HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:M. CINE EspaNol HEVC
+http://k1.koalatv.net:2052/19494/919884/17692
+#EXTINF:-1 tvg-id="" tvg-name="ES:M. SERIESMANIA HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:M. SERIESMANIA HEVC
+http://k1.koalatv.net:2052/19494/919884/17693
+#EXTINF:-1 tvg-id="" tvg-name="ES:M. SERIES HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:M. SERIES HEVC
+http://k1.koalatv.net:2052/19494/919884/17699
+#EXTINF:-1 tvg-id="" tvg-name="ES:DREAMWORKS HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:DREAMWORKS HEVC
+http://k1.koalatv.net:2052/19494/919884/17670
+#EXTINF:-1 tvg-id="" tvg-name="ES:FOX HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:FOX HEVC
+http://k1.koalatv.net:2052/19494/919884/17700
+#EXTINF:-1 tvg-id="" tvg-name="ES:FOX LIFE HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:FOX LIFE HEVC
+http://k1.koalatv.net:2052/19494/919884/17701
+#EXTINF:-1 tvg-id="" tvg-name="ES:AXN HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:AXN HEVC
+http://k1.koalatv.net:2052/19494/919884/17702
+#EXTINF:-1 tvg-id="" tvg-name="ES:AXN WHITE HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:AXN WHITE HEVC
+http://k1.koalatv.net:2052/19494/919884/17703
+#EXTINF:-1 tvg-id="" tvg-name="ES:SYFY HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:SYFY HEVC
+http://k1.koalatv.net:2052/19494/919884/17704
+#EXTINF:-1 tvg-id="" tvg-name="ES:SUNDANCE HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:SUNDANCE HEVC
+http://k1.koalatv.net:2052/19494/919884/17705
+#EXTINF:-1 tvg-id="" tvg-name="ES:COMEDY CENTRAL HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:COMEDY CENTRAL HEVC
+http://k1.koalatv.net:2052/19494/919884/17706
+#EXTINF:-1 tvg-id="" tvg-name="ES:AMC HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:AMC HEVC
+http://k1.koalatv.net:2052/19494/919884/17708
+#EXTINF:-1 tvg-id="" tvg-name="ES:COSMO HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:COSMO HEVC
+http://k1.koalatv.net:2052/19494/919884/17709
+#EXTINF:-1 tvg-id="" tvg-name="ES:CALLE 13 HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:CALLE 13 HEVC
+http://k1.koalatv.net:2052/19494/919884/17710
+#EXTINF:-1 tvg-id="" tvg-name="ES: DIVINITY HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES: DIVINITY HEVC
+http://k1.koalatv.net:2052/19494/919884/17711
+#EXTINF:-1 tvg-id="" tvg-name="ES:ENERGY HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:ENERGY HEVC
+http://k1.koalatv.net:2052/19494/919884/17712
+#EXTINF:-1 tvg-id="" tvg-name="ES:BE MAD HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:BE MAD HEVC
+http://k1.koalatv.net:2052/19494/919884/17713
+#EXTINF:-1 tvg-id="" tvg-name="ES:ARAGON TV HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:ARAGON TV HEVC
+http://k1.koalatv.net:2052/19494/919884/17680
+#EXTINF:-1 tvg-id="" tvg-name="ES:CLAN TVE HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:CLAN TVE HEVC
+http://k1.koalatv.net:2052/19494/919884/17681
+#EXTINF:-1 tvg-id="" tvg-name="ES:NOVA HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:NOVA HEVC
+http://k1.koalatv.net:2052/19494/919884/17682
+#EXTINF:-1 tvg-id="" tvg-name="ES:NEOX HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:NEOX HEVC
+http://k1.koalatv.net:2052/19494/919884/17683
+#EXTINF:-1 tvg-id="" tvg-name="ES:CANAL SUR A HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:CANAL SUR A HEVC
+http://k1.koalatv.net:2052/19494/919884/17684
+#EXTINF:-1 tvg-id="" tvg-name="ES:FOX NEWS HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:FOX NEWS HEVC
+http://k1.koalatv.net:2052/19494/919884/17685
+#EXTINF:-1 tvg-id="" tvg-name="ES:TELESUR HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:TELESUR HEVC
+http://k1.koalatv.net:2052/19494/919884/17686
+#EXTINF:-1 tvg-id="" tvg-name="ES:HOLLYWOOD HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:HOLLYWOOD HEVC
+http://k1.koalatv.net:2052/19494/919884/17694
+#EXTINF:-1 tvg-id="" tvg-name="ES:TCM HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:TCM HEVC
+http://k1.koalatv.net:2052/19494/919884/17695
+#EXTINF:-1 tvg-id="" tvg-name="ES:TNT HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:TNT HEVC
+http://k1.koalatv.net:2052/19494/919884/17696
+#EXTINF:-1 tvg-id="" tvg-name="ES:PARAMOUNT CHANNEL HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:PARAMOUNT CHANNEL HEVC
+http://k1.koalatv.net:2052/19494/919884/17697
+#EXTINF:-1 tvg-id="" tvg-name="ES:CANAL DECASA HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:CANAL DECASA HEVC
+http://k1.koalatv.net:2052/19494/919884/17707
+#EXTINF:-1 tvg-id="" tvg-name="ES:IBERALIA TV HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:IBERALIA TV HEVC
+http://k1.koalatv.net:2052/19494/919884/17727
+#EXTINF:-1 tvg-id="" tvg-name="ES:CANAL ODISEA HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:CANAL ODISEA HEVC
+http://k1.koalatv.net:2052/19494/919884/17728
+#EXTINF:-1 tvg-id="" tvg-name="ES:NAT GEO WILD HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:NAT GEO WILD HEVC
+http://k1.koalatv.net:2052/19494/919884/17729
+#EXTINF:-1 tvg-id="" tvg-name="ES:NAT GEOGRAPHIC HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:NAT GEOGRAPHIC HEVC
+http://k1.koalatv.net:2052/19494/919884/17730
+#EXTINF:-1 tvg-id="" tvg-name="ES:DISCOVERY CHANNEL HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:DISCOVERY CHANNEL HEVC
+http://k1.koalatv.net:2052/19494/919884/17731
+#EXTINF:-1 tvg-id="" tvg-name="ES:FACTORIA DE FICCION HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:FACTORIA DE FICCION HEVC
+http://k1.koalatv.net:2052/19494/919884/17732
+#EXTINF:-1 tvg-id="" tvg-name="ES:CRIMEN INVESTIGACION HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:CRIMEN INVESTIGACION HEVC
+http://k1.koalatv.net:2052/19494/919884/17733
+#EXTINF:-1 tvg-id="" tvg-name="ES:CAZA & PESCA HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:CAZA & PESCA HEVC
+http://k1.koalatv.net:2052/19494/919884/17734
+#EXTINF:-1 tvg-id="" tvg-name="ES:CANAL COCINA HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:CANAL COCINA HEVC
+http://k1.koalatv.net:2052/19494/919884/17735
+#EXTINF:-1 tvg-id="" tvg-name="ES:TOROS HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:TOROS HEVC
+http://k1.koalatv.net:2052/19494/919884/17736
+#EXTINF:-1 tvg-id="" tvg-name="ES:BLAZE HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:BLAZE HEVC
+http://k1.koalatv.net:2052/19494/919884/17737
+#EXTINF:-1 tvg-id="" tvg-name="ES:HISTORIA HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:HISTORIA HEVC
+http://k1.koalatv.net:2052/19494/919884/17738
+#EXTINF:-1 tvg-id="" tvg-name="ES:VIAJAR HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:VIAJAR HEVC
+http://k1.koalatv.net:2052/19494/919884/17739
+#EXTINF:-1 tvg-id="" tvg-name="ES:BOING HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:BOING HEVC
+http://k1.koalatv.net:2052/19494/919884/17740
+#EXTINF:-1 tvg-id="" tvg-name="ES:CANAL PANDA HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:CANAL PANDA HEVC
+http://k1.koalatv.net:2052/19494/919884/17741
+#EXTINF:-1 tvg-id="" tvg-name="ES:BABY TV HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:BABY TV HEVC
+http://k1.koalatv.net:2052/19494/919884/17742
+#EXTINF:-1 tvg-id="" tvg-name="ES:DISNEY CHANNEL HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:DISNEY CHANNEL HEVC
+http://k1.koalatv.net:2052/19494/919884/17743
+#EXTINF:-1 tvg-id="" tvg-name="ES:DISNEY JUNIOR HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:DISNEY JUNIOR HEVC
+http://k1.koalatv.net:2052/19494/919884/17744
+#EXTINF:-1 tvg-id="" tvg-name="ES:NICK JR HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:NICK JR HEVC
+http://k1.koalatv.net:2052/19494/919884/17745
+#EXTINF:-1 tvg-id="" tvg-name="ES:NICKELODEON HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:NICKELODEON HEVC
+http://k1.koalatv.net:2052/19494/919884/17746
+#EXTINF:-1 tvg-id="" tvg-name="ES:MTV ESPANA HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:MTV ESPANA HEVC
+http://k1.koalatv.net:2052/19494/919884/17747
+#EXTINF:-1 tvg-id="" tvg-name="ES:NATIONAL GEO HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:NATIONAL GEO HEVC
+http://k1.koalatv.net:2052/19494/919884/17748
+#EXTINF:-1 tvg-id="" tvg-name="ES:NATIONAL GEO WILD HEVC" tvg-logo="" group-title="|ES| SPAIN HEVC",ES:NATIONAL GEO WILD HEVC
+http://k1.koalatv.net:2052/19494/919884/17749
+#EXTINF:-1 tvg-id="" tvg-name="------SPAIN_UHD------" tvg-logo="" group-title="|ES| SPAIN UHD",------SPAIN_UHD------
+http://k1.koalatv.net:2052/19494/919884/27096
+#EXTINF:-1 tvg-id="" tvg-name="ES: ODISSEA UHD" tvg-logo="" group-title="|ES| SPAIN UHD",ES: ODISSEA UHD
+http://k1.koalatv.net:2052/19494/919884/27044
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 UHD" tvg-logo="" group-title="|ES| SPAIN UHD",ES: DAZN 1 UHD
+http://k1.koalatv.net:2052/19494/919884/27045
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LIGA DE CAMPEONES UHD" tvg-logo="" group-title="|ES| SPAIN UHD",ES: M.LIGA DE CAMPEONES UHD
+http://k1.koalatv.net:2052/19494/919884/27046
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LA LIGA UHD" tvg-logo="" group-title="|ES| SPAIN UHD",ES: M.LA LIGA UHD
+http://k1.koalatv.net:2052/19494/919884/27047
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX CINE HD" tvg-logo="https://i.ibb.co/T8zXBqL/nlogo.png" group-title="|ES| 24/7 & PLUTO",ES | NETFLIX CINE HD
+http://k1.koalatv.net:2052/19494/919884/131796
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX CINE + HD" tvg-logo="https://i.ibb.co/T8zXBqL/nlogo.png" group-title="|ES| 24/7 & PLUTO",ES | NETFLIX CINE + HD
+http://k1.koalatv.net:2052/19494/919884/131797
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Películas HD" tvg-logo="https://i.ibb.co/T8zXBqL/nlogo.png" group-title="|ES| 24/7 & PLUTO",ES | NETFLIX Películas HD
+http://k1.koalatv.net:2052/19494/919884/131798
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Español HD" tvg-logo="https://i.ibb.co/T8zXBqL/nlogo.png" group-title="|ES| 24/7 & PLUTO",ES | NETFLIX Español HD
+http://k1.koalatv.net:2052/19494/919884/131799
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Television HD" tvg-logo="https://i.ibb.co/T8zXBqL/nlogo.png" group-title="|ES| 24/7 & PLUTO",ES | NETFLIX Television HD
+http://k1.koalatv.net:2052/19494/919884/131800
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Historia HD" tvg-logo="https://i.ibb.co/T8zXBqL/nlogo.png" group-title="|ES| 24/7 & PLUTO",ES | NETFLIX Historia HD
+http://k1.koalatv.net:2052/19494/919884/131801
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Sci-Fi HD" tvg-logo="https://i.ibb.co/T8zXBqL/nlogo.png" group-title="|ES| 24/7 & PLUTO",ES | NETFLIX Sci-Fi HD
+http://k1.koalatv.net:2052/19494/919884/131802
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX DRAMA HD" tvg-logo="https://i.ibb.co/T8zXBqL/nlogo.png" group-title="|ES| 24/7 & PLUTO",ES | NETFLIX DRAMA HD
+http://k1.koalatv.net:2052/19494/919884/131803
+#EXTINF:-1 tvg-id="" tvg-name="ES | NETFLIX Ninos HD" tvg-logo="https://i.ibb.co/T8zXBqL/nlogo.png" group-title="|ES| 24/7 & PLUTO",ES | NETFLIX Ninos HD
+http://k1.koalatv.net:2052/19494/919884/131804
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="|ES| 24/7 & PLUTO",|ES| ALQUILER 1 HD
+http://k1.koalatv.net:2052/19494/919884/102438
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="|ES| 24/7 & PLUTO",|ES| ALQUILER 2 HD
+http://k1.koalatv.net:2052/19494/919884/102463
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="|ES| 24/7 & PLUTO",|ES| ALQUILER 3 HD
+http://k1.koalatv.net:2052/19494/919884/102464
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="|ES| 24/7 & PLUTO",|ES| ALQUILER 4 HD
+http://k1.koalatv.net:2052/19494/919884/102465
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="|ES| 24/7 & PLUTO",|ES| ALQUILER 5 HD
+http://k1.koalatv.net:2052/19494/919884/102466
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 6 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="|ES| 24/7 & PLUTO",|ES| ALQUILER 6 HD
+http://k1.koalatv.net:2052/19494/919884/102467
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 7 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="|ES| 24/7 & PLUTO",|ES| ALQUILER 7 HD
+http://k1.koalatv.net:2052/19494/919884/102468
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 8 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="|ES| 24/7 & PLUTO",|ES| ALQUILER 8 HD
+http://k1.koalatv.net:2052/19494/919884/102469
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 9 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="|ES| 24/7 & PLUTO",|ES| ALQUILER 9 HD
+http://k1.koalatv.net:2052/19494/919884/102488
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQUILER 10 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movistar_es_alquiler.png" group-title="|ES| 24/7 & PLUTO",|ES| ALQUILER 10 HD
+http://k1.koalatv.net:2052/19494/919884/102489
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV A vida moderna de Rocko" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV A vida moderna de Rocko
+http://k1.koalatv.net:2052/19494/919884/92184
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Action
+http://k1.koalatv.net:2052/19494/919884/92185
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV All Elite Wrestling" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV All Elite Wrestling
+http://k1.koalatv.net:2052/19494/919884/92186
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Ana y los 7" tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Ana y los 7
+http://k1.koalatv.net:2052/19494/919884/92187
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Animakids" tvg-logo="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Animakids
+http://k1.koalatv.net:2052/19494/919884/92188
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Animakids Plus" tvg-logo="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Animakids Plus
+http://k1.koalatv.net:2052/19494/919884/92189
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Animales" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Animales
+http://k1.koalatv.net:2052/19494/919884/92190
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Anime
+http://k1.koalatv.net:2052/19494/919884/92191
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Animé Acción" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Animé Acción
+http://k1.koalatv.net:2052/19494/919884/92192
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Clásico" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Anime Clásico
+http://k1.koalatv.net:2052/19494/919884/92193
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Archivos Forenses
+http://k1.koalatv.net:2052/19494/919884/92194
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV As Pistas de Blue" tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV As Pistas de Blue
+http://k1.koalatv.net:2052/19494/919884/92195
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Asesinatos de Midsomer" tvg-logo="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Asesinatos de Midsomer
+http://k1.koalatv.net:2052/19494/919884/92196
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Aventura" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Aventura
+http://k1.koalatv.net:2052/19494/919884/92197
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Babar" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Babar
+http://k1.koalatv.net:2052/19494/919884/92198
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV BabyFirst" tvg-logo="" group-title="|ES| 24/7 & PLUTO",Pluto TV BabyFirst
+http://k1.koalatv.net:2052/19494/919884/92199
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Barney" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Barney
+http://k1.koalatv.net:2052/19494/919884/92200
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Bob Esponja" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Bob Esponja
+http://k1.koalatv.net:2052/19494/919884/92201
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Bob Esponja Plus" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Bob Esponja Plus
+http://k1.koalatv.net:2052/19494/919884/92202
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Ciencia" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Ciencia
+http://k1.koalatv.net:2052/19494/919884/92203
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Cine Acción
+http://k1.koalatv.net:2052/19494/919884/92204
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Clásico" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Cine Clásico
+http://k1.koalatv.net:2052/19494/919884/92205
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Comédia" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Cine Comédia
+http://k1.koalatv.net:2052/19494/919884/92206
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Cine Drama
+http://k1.koalatv.net:2052/19494/919884/92207
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Cine Estelar
+http://k1.koalatv.net:2052/19494/919884/92208
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Suspenso" tvg-logo="https://images.pluto.tv/channels/5f984c1dc54853000797a5e8/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Cine Suspenso
+http://k1.koalatv.net:2052/19494/919884/92209
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Cine Terror
+http://k1.koalatv.net:2052/19494/919884/92210
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Cocina
+http://k1.koalatv.net:2052/19494/919884/92211
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cocina (Spain)" tvg-logo="https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Cocina (Spain)
+http://k1.koalatv.net:2052/19494/919884/92212
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Comedia (Made in Spain)" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Comedia (Made in Spain)
+http://k1.koalatv.net:2052/19494/919884/92213
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Competencias" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Competencias
+http://k1.koalatv.net:2052/19494/919884/92214
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Curro Jiménez" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Curro Jiménez
+http://k1.koalatv.net:2052/19494/919884/92215
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Deportes
+http://k1.koalatv.net:2052/19494/919884/92216
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Dog el cazarrecompensas" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Dog el cazarrecompensas
+http://k1.koalatv.net:2052/19494/919884/92217
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV El Conquistador del Fin" tvg-logo="https://images.pluto.tv/channels/5f280149cec6be00072ab1fc/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV El Conquistador del Fin
+http://k1.koalatv.net:2052/19494/919884/92218
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV El Encantador de Perros" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV El Encantador de Perros
+http://k1.koalatv.net:2052/19494/919884/92219
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV El Reino Infantil" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV El Reino Infantil
+http://k1.koalatv.net:2052/19494/919884/92220
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Empeños a lo bestia" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Empeños a lo bestia
+http://k1.koalatv.net:2052/19494/919884/92221
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV EN DIRECTO EN VIVO" tvg-logo="" group-title="|ES| 24/7 & PLUTO",Pluto TV EN DIRECTO EN VIVO
+http://k1.koalatv.net:2052/19494/919884/92222
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Estrellas de Acción" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Estrellas de Acción
+http://k1.koalatv.net:2052/19494/919884/92223
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Euronews" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Euronews
+http://k1.koalatv.net:2052/19494/919884/92224
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Fashion TV" tvg-logo="https://images.pluto.tv/channels/60c882460ea4a200076a2a37/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Fashion TV
+http://k1.koalatv.net:2052/19494/919884/92225
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Fútbol Para Fans" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Fútbol Para Fans
+http://k1.koalatv.net:2052/19494/919884/92226
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Garfield" tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Garfield
+http://k1.koalatv.net:2052/19494/919884/92227
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Historia
+http://k1.koalatv.net:2052/19494/919884/92228
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Historias de Ultratumba" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Historias de Ultratumba
+http://k1.koalatv.net:2052/19494/919884/92229
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Hogar" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Hogar
+http://k1.koalatv.net:2052/19494/919884/92230
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Humor" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Humor
+http://k1.koalatv.net:2052/19494/919884/92231
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Investiga" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Investiga
+http://k1.koalatv.net:2052/19494/919884/92232
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kenan y Kel" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Kenan y Kel
+http://k1.koalatv.net:2052/19494/919884/92233
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV La Chica Invisible" tvg-logo="https://images.pluto.tv/channels/5f1abe3ffcd659000770d88d/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV La Chica Invisible
+http://k1.koalatv.net:2052/19494/919884/92234
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Las Pistas de Blue" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Las Pistas de Blue
+http://k1.koalatv.net:2052/19494/919884/92235
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Las reglas del juego" tvg-logo="https://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Las reglas del juego
+http://k1.koalatv.net:2052/19494/919884/92236
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Latin Angels" tvg-logo="https://images.pluto.tv/channels/5df41355939756000921d15b/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Latin Angels
+http://k1.koalatv.net:2052/19494/919884/92237
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Los archivos del FBI
+http://k1.koalatv.net:2052/19494/919884/92238
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Los nuevos detectives" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Los nuevos detectives
+http://k1.koalatv.net:2052/19494/919884/92239
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Love Nature" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Love Nature
+http://k1.koalatv.net:2052/19494/919884/92240
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Lucha Libre AAA" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Lucha Libre AAA
+http://k1.koalatv.net:2052/19494/919884/92241
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MasterChef" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV MasterChef
+http://k1.koalatv.net:2052/19494/919884/92242
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Minuto Para Ganar" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Minuto Para Ganar
+http://k1.koalatv.net:2052/19494/919884/92243
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Misterios" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Misterios
+http://k1.koalatv.net:2052/19494/919884/92244
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Misterios Medicos" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Misterios Medicos
+http://k1.koalatv.net:2052/19494/919884/92245
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Misterios sin Resolver" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Misterios sin Resolver
+http://k1.koalatv.net:2052/19494/919884/92246
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Animaciones" tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV MTV Animaciones
+http://k1.koalatv.net:2052/19494/919884/92247
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Classic" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV MTV Classic
+http://k1.koalatv.net:2052/19494/919884/92248
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Embarazada a los 16" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV MTV Embarazada a los 16
+http://k1.koalatv.net:2052/19494/919884/92249
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV En Vivo" tvg-logo="https://images.pluto.tv/channels/6130d6f3f3f7bb0007dbd092/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV MTV En Vivo
+http://k1.koalatv.net:2052/19494/919884/92250
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Latino" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV MTV Latino
+http://k1.koalatv.net:2052/19494/919884/92251
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Music Made in Spain" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV MTV Music Made in Spain
+http://k1.koalatv.net:2052/19494/919884/92252
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Originals" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV MTV Originals
+http://k1.koalatv.net:2052/19494/919884/92253
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Pranks" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV MTV Pranks
+http://k1.koalatv.net:2052/19494/919884/92254
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Realities" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV MTV Realities
+http://k1.koalatv.net:2052/19494/919884/92255
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV MTV Tattoo A Dos" tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/featuredImage.jpg?w=750&fm=png" group-title="|ES| 24/7 & PLUTO",Pluto TV MTV Tattoo A Dos
+http://k1.koalatv.net:2052/19494/919884/92256
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Mundo" tvg-logo="https://images.pluto.tv/channels/5d8d103f031154a4172d262b/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Mundo
+http://k1.koalatv.net:2052/19494/919884/92257
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Mutante X" tvg-logo="https://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Mutante X
+http://k1.koalatv.net:2052/19494/919884/92258
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Narcos" tvg-logo="https://images.pluto.tv/channels/5f7274806621ff00072651ff/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Narcos
+http://k1.koalatv.net:2052/19494/919884/92259
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Naruto" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Naruto
+http://k1.koalatv.net:2052/19494/919884/92260
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Naturaleza" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Naturaleza
+http://k1.koalatv.net:2052/19494/919884/92261
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Natureza" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Natureza
+http://k1.koalatv.net:2052/19494/919884/92262
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Nick Clásico" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Nick Clásico
+http://k1.koalatv.net:2052/19494/919884/92263
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Nick Jr. Latino" tvg-logo="https://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Nick Jr. Latino
+http://k1.koalatv.net:2052/19494/919884/92264
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Nick Latino" tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Nick Latino
+http://k1.koalatv.net:2052/19494/919884/92265
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Novelas
+http://k1.koalatv.net:2052/19494/919884/92266
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Novelas Drama" tvg-logo="https://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Novelas Drama
+http://k1.koalatv.net:2052/19494/919884/92267
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Novelas Dramas" tvg-logo="https://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Novelas Dramas
+http://k1.koalatv.net:2052/19494/919884/92268
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Novelas Romance" tvg-logo="https://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Novelas Romance
+http://k1.koalatv.net:2052/19494/919884/92269
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Novelas Thriller" tvg-logo="https://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Novelas Thriller
+http://k1.koalatv.net:2052/19494/919884/92270
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Nuestra Vision" tvg-logo="https://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Nuestra Vision
+http://k1.koalatv.net:2052/19494/919884/92271
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Oh My Pet" tvg-logo="https://images.pluto.tv/channels/5f2acdab16f5b3000721ae2c/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Oh My Pet
+http://k1.koalatv.net:2052/19494/919884/92272
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Peleas" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Peleas
+http://k1.koalatv.net:2052/19494/919884/92273
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV People are Awesome" tvg-logo="https://images.pluto.tv/channels/5ebac65911406400078b8993/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV People are Awesome
+http://k1.koalatv.net:2052/19494/919884/92274
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Pistas de Blue" tvg-logo="https://images.pluto.tv/channels/5f1aa82c150b2500077733d7/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Pistas de Blue
+http://k1.koalatv.net:2052/19494/919884/92275
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Planeta Junior TV" tvg-logo="https://images.pluto.tv/channels/609501978c069d00074e0dd2/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Planeta Junior TV
+http://k1.koalatv.net:2052/19494/919884/92276
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Qello Concerts" tvg-logo="https://images.pluto.tv/channels/60f16986acb81b0007c384ac/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Qello Concerts
+http://k1.koalatv.net:2052/19494/919884/92277
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Qwest TV Jazz & Beyond" tvg-logo="https://images.pluto.tv/channels/60db37b8b919720007c07fa4/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Qwest TV Jazz & Beyond
+http://k1.koalatv.net:2052/19494/919884/92278
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Realities ESP" tvg-logo="https://images.pluto.tv/channels/5d93b4d71754e6a4298d086e/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Realities ESP
+http://k1.koalatv.net:2052/19494/919884/92279
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Rugrats" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Rugrats
+http://k1.koalatv.net:2052/19494/919884/92280
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Rugrats Crecidos" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Rugrats Crecidos
+http://k1.koalatv.net:2052/19494/919884/92281
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Sci-Fi
+http://k1.koalatv.net:2052/19494/919884/92282
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Series Latinas" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Series Latinas
+http://k1.koalatv.net:2052/19494/919884/92283
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Series Retro" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Series Retro
+http://k1.koalatv.net:2052/19494/919884/92284
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Spike Aventura" tvg-logo="https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Spike Aventura
+http://k1.koalatv.net:2052/19494/919884/92285
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Tastemade" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Tastemade
+http://k1.koalatv.net:2052/19494/919884/92286
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Teen" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Teen
+http://k1.koalatv.net:2052/19494/919884/92287
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Telefe Clásico" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Telefe Clásico
+http://k1.koalatv.net:2052/19494/919884/92288
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Telemundo Telenovelas" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Telemundo Telenovelas
+http://k1.koalatv.net:2052/19494/919884/92289
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Telenovelas" tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Telenovelas
+http://k1.koalatv.net:2052/19494/919884/92290
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV The Walking Dead ESP" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV The Walking Dead ESP
+http://k1.koalatv.net:2052/19494/919884/92291
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Toons Clásico" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Toons Clásico
+http://k1.koalatv.net:2052/19494/919884/92292
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Turma da Mônica" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Turma da Mônica
+http://k1.koalatv.net:2052/19494/919884/92293
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Vaya semanita" tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Vaya semanita
+http://k1.koalatv.net:2052/19494/919884/92294
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Velocidad​" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Velocidad​
+http://k1.koalatv.net:2052/19494/919884/92295
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV VEVO Reggeaton & Trap" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" group-title="|ES| 24/7 & PLUTO",Pluto TV VEVO Reggeaton & Trap
+http://k1.koalatv.net:2052/19494/919884/92296
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV VH1 Classics" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV VH1 Classics
+http://k1.koalatv.net:2052/19494/919884/92297
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Viajes" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Viajes
+http://k1.koalatv.net:2052/19494/919884/92298
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Vida Real" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Pluto TV Vida Real
+http://k1.koalatv.net:2052/19494/919884/92299
+#EXTINF:-1 tvg-id="" tvg-name="BBC Drama" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",BBC Drama
+http://k1.koalatv.net:2052/19494/919884/92300
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Who" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Doctor Who
+http://k1.koalatv.net:2052/19494/919884/92301
+#EXTINF:-1 tvg-id="" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="|ES| 24/7 & PLUTO",Top Gear
+http://k1.koalatv.net:2052/19494/919884/92302
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVE 4K" tvg-logo="" group-title="|ES| SPAIN",ES: TVE 4K
+http://k1.koalatv.net:2052/19494/919884/132504
+#EXTINF:-1 tvg-id="" tvg-name="ES: SOL MUSICA FHD" tvg-logo="" group-title="|ES| SPAIN",ES: SOL MUSICA FHD
+http://k1.koalatv.net:2052/19494/919884/132505
+#EXTINF:-1 tvg-id="" tvg-name="ES: SEVILLA TV FHD" tvg-logo="" group-title="|ES| SPAIN",ES: SEVILLA TV FHD
+http://k1.koalatv.net:2052/19494/919884/132506
+#EXTINF:-1 tvg-id="" tvg-name="ES: REK TV HD" tvg-logo="" group-title="|ES| SPAIN",ES: REK TV HD
+http://k1.koalatv.net:2052/19494/919884/132507
+#EXTINF:-1 tvg-id="" tvg-name="ES: MALAGA TV HD" tvg-logo="" group-title="|ES| SPAIN",ES: MALAGA TV HD
+http://k1.koalatv.net:2052/19494/919884/132508
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESCAPA TV HD" tvg-logo="" group-title="|ES| SPAIN",ES: ESCAPA TV HD
+http://k1.koalatv.net:2052/19494/919884/132509
+#EXTINF:-1 tvg-id="" tvg-name="ES: CORDOBA TV HD" tvg-logo="" group-title="|ES| SPAIN",ES: CORDOBA TV HD
+http://k1.koalatv.net:2052/19494/919884/132510
+#EXTINF:-1 tvg-id="" tvg-name="ES: CRIME FHD" tvg-logo="" group-title="|ES| DESCUBRIMIENTO",ES: CRIME FHD
+http://k1.koalatv.net:2052/19494/919884/132511
+#EXTINF:-1 tvg-id="" tvg-name="ES: BARCA TV HD" tvg-logo="" group-title="|ES| DEPORTES",ES: BARCA TV HD
+http://k1.koalatv.net:2052/19494/919884/132512
